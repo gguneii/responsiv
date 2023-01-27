@@ -13,6 +13,7 @@ close.addEventListener('click',()=>{
     search.classList.remove('color-change');
 })
 
+
 let az=document.querySelector('.az')
 let list=document.querySelector('.list')
 
